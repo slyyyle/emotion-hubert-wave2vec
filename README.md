@@ -1,2 +1,2 @@
-# Finetuning HUBERT To Perform Audio Emotion Classification on RAVDESS
+# Finetuning HUBERT - Audio Emotion Classification on RAVDESS
  
