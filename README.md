@@ -1,2 +1,2 @@
-# emotion-hubert-wave2vec
+# Finetuning HUBERT To Perform Audio Emotion Classification on RAVDESS
  
